@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F300EA00221EDD2C00B986D1 /* SwipeUpView.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SwipeUpView.gif; sourceTree = "<group>"; };
 		F35C6AF5221D6907003271D9 /* SwipeUp-View.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwipeUp-View.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F35C6AF8221D6908003271D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F35C6AFA221D6908003271D9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +61,7 @@
 				F35C6AFF221D691C003271D9 /* Assets.xcassets */,
 				F35C6B01221D691C003271D9 /* LaunchScreen.storyboard */,
 				F35C6B04221D691C003271D9 /* Info.plist */,
+				F300EA00221EDD2C00B986D1 /* SwipeUpView.gif */,
 			);
 			path = "SwipeUp-View";
 			sourceTree = "<group>";
